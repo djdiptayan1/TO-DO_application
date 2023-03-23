@@ -93,7 +93,7 @@ li {
   justify-content: center;
 }
 .task label p.checked{
-  color: green;
+  color: rgb(0, 228, 0);
   text-decoration: line-through;
 }
 .task label input {
